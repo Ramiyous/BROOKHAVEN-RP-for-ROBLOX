@@ -15,17 +15,17 @@
       "banner_type":"yandex",
       "inter_type":"yandex",
       "native_type":"yandex",
-      "reward_type":"ironsource",
+      "reward_type":"yandex",
       
 
       "ironsource_id":"jhd78302",
       "unity_id":"87320283",
      
 
-      "banner_yandex":"R-M-2005289-2",
-      "native_yandex":"R-M-2005289-3",
-      "interstitial_yandex":"R-M-2005289-4",
-      "rewarde_yandex":"R-M-2005289-5",
+      "banner_yandex":"R-M-2005295-1",
+      "native_yandex":"R-M-2005295-2",
+      "interstitial_yandex":"R-M-2005295-3",
+      "rewarde_yandex":"R-M-2005295-4",
 
       "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
        "banner_admob":"ca-app-pub-3940256099942544/6300978111",
